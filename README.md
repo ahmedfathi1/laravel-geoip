@@ -17,7 +17,9 @@ Determine the geographical location and currency of website visitors based on th
 ## Official Documentation
 
 Documentation for the package can be found on [Lyften.com](http://lyften.com/projects/laravel-geoip/).
-
+## Laravel 5
+### Install
+ - composer require ahmedzidan/geoip
 ## Laravel 4
 
 For Laravel 4 Installation see [version 0.1.1](https://github.com/Torann/laravel-geoip/tree/0.1.1)
